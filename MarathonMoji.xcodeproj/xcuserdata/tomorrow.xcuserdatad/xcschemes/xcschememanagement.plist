@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MarathonMojiKeyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>E5EA17871D57E6EB0000FA8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E5EA179D1D57E7A70000FA8B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
